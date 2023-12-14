@@ -1,0 +1,11 @@
+.login-bg-wrapper {
+    background-color: #59656f;
+}
+
+#results th {
+    text-align: center;
+}
+
+#admin-dashboard-content {
+    min-height: 100vh;
+}
